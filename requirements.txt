@@ -45,7 +45,6 @@ pytz==2024.1
 queuelib==1.6.2
 requests==2.31.0
 requests-file==2.0.0
-requests2==2.16.0
 Scrapy==2.11.1
 selenium==4.17.2
 service-identity==24.1.0
@@ -59,11 +58,10 @@ trio==0.24.0
 trio-websocket==0.11.1
 Twisted==23.10.0
 twisted-iocpsupport==1.0.4
-typing_extensions==4.9.0
+typing_extensions==4.9.0S
 tzdata==2024.1
 urllib3==2.2.0
 w3lib==2.1.2
 Werkzeug==3.0.4
 wsproto==1.2.0
 zope.interface==6.1
-
