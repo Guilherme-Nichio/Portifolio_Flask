@@ -1,1 +1,34 @@
-Exemplos de programa para aula 2
+Portfólio Python com API Flask
+Bem-vindo ao repositório do meu portfólio desenvolvido no 4º semestre da Universidade Unimax! Este projeto foi construído utilizando Python e a API Flask para demonstrar minhas habilidades em desenvolvimento web e programação.
+
+📚 Descrição
+Este portfólio é uma aplicação web simples que exibe uma lista de projetos e informações sobre eles. Utiliza Flask, um microframework em Python, para criar uma API que gerencia as informações dos projetos e permite a visualização dos dados em uma interface web. Não há uso de banco de dados; todas as informações são armazenadas em arquivos estáticos.
+
+🚀 Tecnologias Utilizadas
+Python: Linguagem de programação principal utilizada no desenvolvimento do backend.
+Flask: Microframework para criar a API e gerenciar rotas.
+HTML/CSS: Tecnologias utilizadas para a criação da interface web.
+Render: Plataforma de hospedagem para a aplicação web.
+
+🌐 Hospedagem
+A aplicação está hospedada na Render.
+
+Seu Portfólio
+📂 Estrutura do Projeto
+app.py: Arquivo principal que inicia a aplicação Flask e define as rotas.
+templates/: Diretório que contém os arquivos HTML para a interface web.
+static/: Diretório para arquivos estáticos como CSS e JavaScript.
+requirements.txt: Arquivo que lista as dependências do projeto.
+🚧 Funcionalidades
+Visualização de Projetos: Página inicial que exibe uma lista de projetos com descrições e links.
+Detalhes do Projeto: Página de detalhes para cada projeto individual.
+🎓 Sobre Mim
+Este projeto foi desenvolvido como parte do curso de Desenvolvimento Web no 4º semestre da Universidade Unimax. Ele visa demonstrar a capacidade de construir uma aplicação web completa utilizando Python e Flask, e fornece uma visão geral das minhas habilidades técnicas.
+
+📄 Licença
+Este projeto está licenciado sob a Licença MIT.
+
+📞 Contato
+Se você tiver alguma dúvida ou precisar de mais informações, entre em contato comigo:
+
+Email: guilhermenicchio.002@gmail.com
